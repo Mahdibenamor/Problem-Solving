@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\problem solving\word-break\bin\Debug\net8.0\word-break.exe
+C:\Users\User\Desktop\problem solving\word-break\bin\Debug\net8.0\word-break.deps.json
+C:\Users\User\Desktop\problem solving\word-break\bin\Debug\net8.0\word-break.runtimeconfig.json
+C:\Users\User\Desktop\problem solving\word-break\bin\Debug\net8.0\word-break.dll
+C:\Users\User\Desktop\problem solving\word-break\bin\Debug\net8.0\word-break.pdb
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\word-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\word-break.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\word-break.AssemblyInfo.cs
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\word-break.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\word-break.dll
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\refint\word-break.dll
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\word-break.pdb
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\word-break.genruntimeconfig.cache
+C:\Users\User\Desktop\problem solving\word-break\obj\Debug\net8.0\ref\word-break.dll

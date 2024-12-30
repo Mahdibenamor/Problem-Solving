@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\bin\Debug\net8.0\ones-and-zeroes.exe
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\bin\Debug\net8.0\ones-and-zeroes.deps.json
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\bin\Debug\net8.0\ones-and-zeroes.runtimeconfig.json
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\bin\Debug\net8.0\ones-and-zeroes.dll
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\bin\Debug\net8.0\ones-and-zeroes.pdb
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ones-and-zeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ones-and-zeroes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ones-and-zeroes.AssemblyInfo.cs
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ones-and-zeroes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ones-and-zeroes.dll
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\refint\ones-and-zeroes.dll
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ones-and-zeroes.pdb
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ones-and-zeroes.genruntimeconfig.cache
+C:\Users\User\Desktop\problem solving\ones-and-zeroes\obj\Debug\net8.0\ref\ones-and-zeroes.dll

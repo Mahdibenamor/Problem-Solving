@@ -1,0 +1,34 @@
+{
+  "name": "exemple",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Mahdibenamor <mahdi.benamor@supcom.tn>",
+  "homepage": "https://github.com/Mahdibenamor/FastSync#readme",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.18",
+    "@types/node": "^20.3.1",
+
+    "express": "^4.18.2"
+  
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.3",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.1.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/fast-sync-server-exemple/src/index.js",
+    "preBuild":"npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahdibenamor/FastSync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mahdibenamor/FastSync/issues"
+  }
+}

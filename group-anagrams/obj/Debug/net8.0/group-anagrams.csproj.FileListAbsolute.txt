@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\group-anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\group-anagrams.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\group-anagrams.AssemblyInfo.cs
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\group-anagrams.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\problem solving\group-anagrams\bin\Debug\net8.0\group-anagrams.exe
+C:\Users\User\Desktop\problem solving\group-anagrams\bin\Debug\net8.0\group-anagrams.deps.json
+C:\Users\User\Desktop\problem solving\group-anagrams\bin\Debug\net8.0\group-anagrams.runtimeconfig.json
+C:\Users\User\Desktop\problem solving\group-anagrams\bin\Debug\net8.0\group-anagrams.dll
+C:\Users\User\Desktop\problem solving\group-anagrams\bin\Debug\net8.0\group-anagrams.pdb
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\group-anagrams.dll
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\refint\group-anagrams.dll
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\group-anagrams.pdb
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\group-anagrams.genruntimeconfig.cache
+C:\Users\User\Desktop\problem solving\group-anagrams\obj\Debug\net8.0\ref\group-anagrams.dll

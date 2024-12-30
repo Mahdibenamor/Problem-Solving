@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\problem solving\largest-number\bin\Debug\net8.0\largest-number.exe
+C:\Users\User\Desktop\problem solving\largest-number\bin\Debug\net8.0\largest-number.deps.json
+C:\Users\User\Desktop\problem solving\largest-number\bin\Debug\net8.0\largest-number.runtimeconfig.json
+C:\Users\User\Desktop\problem solving\largest-number\bin\Debug\net8.0\largest-number.dll
+C:\Users\User\Desktop\problem solving\largest-number\bin\Debug\net8.0\largest-number.pdb
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\largest-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\largest-number.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\largest-number.AssemblyInfo.cs
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\largest-number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\largest-number.dll
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\refint\largest-number.dll
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\largest-number.pdb
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\largest-number.genruntimeconfig.cache
+C:\Users\User\Desktop\problem solving\largest-number\obj\Debug\net8.0\ref\largest-number.dll
